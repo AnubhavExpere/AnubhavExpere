@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate full stack developer 
+A passionate full stack developer 
 
 I'm currently working on a full stack Personal Expense Management Web App [ReactJS, ExpressJS, PostgreSQL]
 
